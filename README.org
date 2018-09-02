@@ -1,0 +1,5 @@
+* GitHub Issue Migrator
+
+The overall objective of this project is to allow easy migration/backup of GitHub issues.
+
+** USAGE
