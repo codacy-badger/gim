@@ -1,2 +1,0 @@
-# gim
-GitHub Issue Migrator
